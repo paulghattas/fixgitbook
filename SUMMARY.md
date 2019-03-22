@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Operator Developer Guide](README.md)
 
 ## Operator Overview
 
