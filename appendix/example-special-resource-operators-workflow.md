@@ -6,7 +6,7 @@ Below shows the components of an Operator that manages GPU resources. Feature de
 * Deploying a container via DaemonSet that manages the device plugin
 * Deploying a container via DaemonSet that monitors the device and reports Prometheus metrics
 
-![](../.gitbook/assets/si4rjdj9i93m5wzqcihb6wg.png)
+![](https://github.com/paulghattas/fixgitbook/tree/551df9cf00a9ff7c3a3d31ad2ba022ba4a3fcdd1/.gitbook/assets/si4rjdj9i93m5wzqcihb6wg.png)
 
 Any cluster workloads that require a GPU can be steered towards these Nodes by the same label selector on their Deployments and other Kubernetes resources.
 
